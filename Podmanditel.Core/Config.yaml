@@ -1,0 +1,12 @@
+﻿
+RegistryPath: "HKEY_CURRENT_USER\\Software\\Test"
+
+DebugKeyName: "TestValue1"
+DebugKeySeparator: ";"
+DebugKeys:
+  - "item1"
+  - "item2"
+  - "item3"
+  - "another1"
+  - "another2"
+  - "another3"
